@@ -94,7 +94,7 @@ setup(
         'bson==0.5.8',
         'sqlparse==0.2.4',
         'pymongo>=3.2.0',
-        'django>=2.0,<3',
+        'django>=2.0',
         'dataclasses>=0.1',
         'six>=1.13.0',
     ],
